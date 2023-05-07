@@ -78,6 +78,7 @@ type Hook interface {
 	// (respectively) each state import operation for a given resource address.
 	PreImportState(addr addrs.AbsResourceInstance, importID string) (HookAction, error)
 	PostImportState(addr addrs.AbsResourceInstance, imported []providers.ImportedResource) (HookAction, error)
+	ApplyImport(addr addrs.AbsResourceInstance) (HookAction, error)
 
 	// Stopping is called if an external signal requests that Terraform
 	// gracefully abort an operation in progress.
@@ -156,6 +157,10 @@ func (*NilHook) PreImportState(addr addrs.AbsResourceInstance, importID string) 
 }
 
 func (*NilHook) PostImportState(addr addrs.AbsResourceInstance, imported []providers.ImportedResource) (HookAction, error) {
+	return HookActionContinue, nil
+}
+
+func (h *NilHook) ApplyImport(addr addrs.AbsResourceInstance) (HookAction, error) {
 	return HookActionContinue, nil
 }
 

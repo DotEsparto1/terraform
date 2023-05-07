@@ -111,6 +111,11 @@ type MockHook struct {
 	PostImportStateReturn    HookAction
 	PostImportStateError     error
 
+	ApplyImportCalled bool
+	ApplyImportAddr   addrs.AbsResourceInstance
+	ApplyImportReturn HookAction
+	ApplyImportError  error
+
 	StoppingCalled bool
 
 	PostStateUpdateCalled bool
@@ -267,6 +272,15 @@ func (h *MockHook) PostImportState(addr addrs.AbsResourceInstance, imported []pr
 	h.PostImportStateAddr = addr
 	h.PostImportStateNewStates = imported
 	return h.PostImportStateReturn, h.PostImportStateError
+}
+
+func (h *MockHook) ApplyImport(addr addrs.AbsResourceInstance) (HookAction, error) {
+	h.Lock()
+	defer h.Unlock()
+
+	h.ApplyImportCalled = true
+	h.ApplyImportAddr = addr
+	return h.ApplyImportReturn, h.ApplyImportError
 }
 
 func (h *MockHook) Stopping() {

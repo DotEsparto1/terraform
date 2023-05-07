@@ -100,6 +100,14 @@ Note that the -target option is not suitable for routine use, and is provided on
 		newState.CheckResults = plan.Checks.DeepCopy()
 	}
 
+	for _, rc := range plan.Changes.Resources {
+		if rc.Importing != nil {
+			for _, h := range c.hooks {
+				h.ApplyImport(rc.Addr)
+			}
+		}
+	}
+
 	return newState, diags
 }
 

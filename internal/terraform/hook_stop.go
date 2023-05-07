@@ -74,6 +74,10 @@ func (h *stopHook) PostImportState(addr addrs.AbsResourceInstance, imported []pr
 	return h.hook()
 }
 
+func (h *stopHook) ApplyImport(addr addrs.AbsResourceInstance) (HookAction, error) {
+	return h.hook()
+}
+
 func (h *stopHook) Stopping() {}
 
 func (h *stopHook) PostStateUpdate(new *states.State) (HookAction, error) {
