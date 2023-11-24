@@ -1,11 +1,11 @@
 repo_name: DotEsparto1/terraform
-report_id: 45aed3c0f9af9b45eef315a116ba79b5
+report_id: 10971af58ac02a5b401c5bbabb146327
 repo_type: Public
-timestamp: '2023-11-10T17:09:07+00:00'
+timestamp: '2023-11-24T10:22:59+00:00'
 requested_by: liamcervante
 provider: github
 branch: main
-detected_tools_count: 111
+detected_tools_count: 110
 tools:
 - name: Golang
   description: An open source programming language that makes it easy to build simple,
@@ -808,19 +808,6 @@ tools:
   detection_source: go.mod
   last_updated_by: Liam Cervante
   last_updated_on: 2023-03-09 13:29:58.000000000 Z
-- name: Savio.io
-  description: Track feature requests from Intercom, Help Scout, Slack, and more
-  website_url: https://www.savio.io/
-  version: 0.0.9
-  open_source: false
-  hosted_saas: false
-  category: Support, Sales, and Marketing
-  sub_category: Feedback Widget
-  image_url: https://img.stackshare.io/service/21209/default_fd6f4bea3e63552cb3b90f56c124b0f109addbee.png
-  detection_source_url: go.sum
-  detection_source: go.mod
-  last_updated_by: Martin Atkins
-  last_updated_on: 2018-08-24 23:13:05.000000000 Z
 - name: Stagy
   description: Stagings made simple
   website_url: https://stagy.dev/
