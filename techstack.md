@@ -31,7 +31,6 @@ DotEsparto1/terraform is built on the following main stack:
 - [dbForge Query Builder for MySQL](https://www.devart.com/dbforge/mysql/querybuilder/) – Database Tools
 - [dbForge Schema Compare for Redshift/PostgreSQL](https://www.devart.com/dbforge/postgresql/schemacompare/) – Database Tools
 - [Finder.io](https://finder.io/) – Email Validator
-- [Savio.io](https://www.savio.io/) – Feedback Widget
 - [Swiper Slider](https://swiperjs.com/) – Mobile UI Components
 - [WebhookRelay](https://webhookrelay.com/) – localhost Tools
 - [Simple Analytics](https://simpleanalytics.com) – General Analytics
@@ -90,7 +89,6 @@ DotEsparto1/terraform is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/21197/default_8a0f32264df8a72e42495ce2cac4974819fe2aef.png' alt='dbForge Query Builder for MySQL'/> [dbForge Query Builder for MySQL](https://www.devart.com/dbforge/mysql/querybuilder/) – Database Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/21199/default_fc2ebc762805baf8c27cb23feb12da62593659c2.png' alt='dbForge Schema Compare for Redshift/PostgreSQL'/> [dbForge Schema Compare for Redshift/PostgreSQL](https://www.devart.com/dbforge/postgresql/schemacompare/) – Database Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/21202/default_1d8852f33de7f06897c85459e95f0572c83aa76c.png' alt='Finder.io'/> [Finder.io](https://finder.io/) – Email Validator
-- <img width='25' height='25' src='https://img.stackshare.io/service/21209/default_fd6f4bea3e63552cb3b90f56c124b0f109addbee.png' alt='Savio.io'/> [Savio.io](https://www.savio.io/) – Feedback Widget
 - <img width='25' height='25' src='https://img.stackshare.io/service/21212/default_5a94ffae10b58d58b627f27e5c21cb4a919801c3.png' alt='Swiper Slider'/> [Swiper Slider](https://swiperjs.com/) – Mobile UI Components
 - <img width='25' height='25' src='https://img.stackshare.io/service/21215/default_398a368cd5622ee6529f23799af5d8f63b643e88.jpg' alt='WebhookRelay'/> [WebhookRelay](https://webhookrelay.com/) – localhost Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/21298/default_3e94918409fb0890c50a99024c2b47b1df7577e3.jpg' alt='Simple Analytics'/> [Simple Analytics](https://simpleanalytics.com) – General Analytics
@@ -122,7 +120,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [DotEsparto1/terraform](https://github.com/DotEsparto1/terraform)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|111<br/>Tools used|11/10/23 <br/>Report generated|
+|110<br/>Tools used|11/24/23 <br/>Report generated|
 |------|------|
 </div>
 
@@ -448,7 +446,7 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## Other (47)
+## Other (46)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/21140/default_8a94513f1340db48c564130fc609b4ce3d010a76.png' alt='Abstract APIs'>
@@ -689,14 +687,6 @@ Full tech stack [here](/techstack.md)
 </td>
 
 <td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/21209/default_fd6f4bea3e63552cb3b90f56c124b0f109addbee.png' alt='Savio.io'>
-  <br>
-  <sub><a href="https://www.savio.io/">Savio.io</a></sub>
-  <br>
-  <sub>v0.0.9</sub>
-</td>
-
-<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/21471/default_e6a21c3094795c651f23af890e15de225b38ebb2.png' alt='Stagy'>
   <br>
   <sub><a href="https://stagy.dev/">Stagy</a></sub>
@@ -712,9 +702,7 @@ Full tech stack [here](/techstack.md)
   <sub>v0.0.0</sub>
 </td>
 
-</tr>
-<tr>
-  <td align='center'>
+<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/21841/default_b5a2e282bf6a607a5275246db8d4b596cc0b794e.png' alt='Upfeed'>
   <br>
   <sub><a href="https://www.upfeed.co/">Upfeed</a></sub>
@@ -722,7 +710,9 @@ Full tech stack [here](/techstack.md)
   <sub>v1.7.0</sub>
 </td>
 
-<td align='center'>
+</tr>
+<tr>
+  <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/21407/default_50834d775ade6b5f1b26a16b626ef3058b6ccf58.png' alt='WSL'>
   <br>
   <sub><a href="https://docs.microsoft.com/en-us/windows/wsl/about">WSL</a></sub>
@@ -778,9 +768,7 @@ Full tech stack [here](/techstack.md)
   <sub>v1.0.0</sub>
 </td>
 
-</tr>
-<tr>
-  <td align='center'>
+<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/22007/default_6156425c0f865da72cc663ac48c25da8545c40ab.png' alt='indexer.express'>
   <br>
   <sub><a href="https://indexer.express/">indexer.express</a></sub>
@@ -788,7 +776,9 @@ Full tech stack [here](/techstack.md)
   <sub>v0.3.0</sub>
 </td>
 
-<td align='center'>
+</tr>
+<tr>
+  <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/21240/default_f752ec7f084669cc7a76c7c2a6ec3c8580de2c8a.png' alt='koalas'>
   <br>
   <sub><a href="https://koalas.readthedocs.io/">koalas</a></sub>
@@ -878,4 +868,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
