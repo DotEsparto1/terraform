@@ -124,7 +124,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [DotEsparto1/terraform](https://github.com/DotEsparto1/terraform)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|110<br/>Tools used|12/01/23 <br/>Report generated|
+|110<br/>Tools used|12/11/23 <br/>Report generated|
 |------|------|
 </div>
 
@@ -840,34 +840,34 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[Sirupsen/logrus](https://pkg.go.dev/github.com/fsouza/go-dockerclient/external/github.com/Sirupsen/logrus)|v0.5.3|N/A|N/A |BSD-2-Clause|N/A|
-|[any](https://pkg.go.dev/github.com/golang/protobuf/ptypes/any)|v0.0.0|N/A|N/A |BSD-3-Clause|N/A|
-|[btree](https://pkg.go.dev/github.com/google/btree)|v1.0.1|N/A|N/A |Apache-2.0|N/A|
-|[bufs](https://pkg.go.dev/github.com/cznic/bufs)|v0.1.0|N/A|N/A |BSD-3-Clause|N/A|
-|[clientcmd/api](https://pkg.go.dev/k8s.io/kubernetes/pkg/client/unversioned/clientcmd/api)|v1.3.1|N/A|N/A |Apache-2.0|N/A|
-|[dockerversion](https://pkg.go.dev/github.com/docker/docker/dockerversion)|v0.0.0|N/A|N/A |Apache-2.0|N/A|
-|[fsnotify](https://pkg.go.dev/github.com/fsnotify/fsnotify)|v1.0.1|N/A|N/A |BSD-3-Clause|N/A|
-|[go-ini](https://pkg.go.dev/github.com/vaughan0/go-ini)|v1.61.1501|N/A|N/A |MIT|N/A|
-|[go/internal](https://pkg.go.dev/cloud.google.com/go/internal)|v0.7.0|N/A|N/A |Apache-2.0|N/A|
-|[golang.org/x/net/context](https://pkg.go.dev/github.com/fsouza/go-dockerclient/external/golang.org/x/net/context)|v0.0.0|N/A|N/A |BSD-2-Clause|N/A|
-|[gomega](https://pkg.go.dev/github.com/onsi/gomega)|v0.9.2|N/A|N/A |MIT|N/A|
-|[gophercloud/openstack/utils](https://pkg.go.dev/github.com/gophercloud/gophercloud/openstack/utils)|v0.0.0|N/A|N/A |Other|N/A|
-|[httplex](https://pkg.go.dev/golang.org/x/net/lex/httplex)|v0.3.1|N/A|N/A |BSD-3-Clause|N/A|
-|[json-patch](https://pkg.go.dev/github.com/evanphx/json-patch)|v0.5.10|N/A|N/A |BSD-3-Clause|N/A|
-|[mapstructure](https://pkg.go.dev/github.com/mitchellh/mapstructure)|v0.5.0|N/A|N/A |MIT|N/A|
-|[networking/v2/ports](https://pkg.go.dev/github.com/rackspace/gophercloud/openstack/networking/v2/ports)|v1.0.0|N/A|N/A |Other|N/A|
-|[otto](https://pkg.go.dev/github.com/robertkrimen/otto)|v1.21.0|N/A|N/A |MIT|N/A|
-|[parsers](https://pkg.go.dev/github.com/docker/docker/pkg/parsers)|v1.0.4|N/A|N/A |Apache-2.0|N/A|
-|[pbkdf2](https://pkg.go.dev/golang.org/x/crypto/pbkdf2)|v0.0.0|N/A|N/A |BSD-3-Clause|N/A|
-|[pkcs11](https://pkg.go.dev/github.com/miekg/pkcs11)|v1.0.0|N/A|N/A |BSD-3-Clause|N/A|
-|[pkg/ioutils](https://pkg.go.dev/github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/ioutils)|v0.9.0|N/A|N/A |BSD-2-Clause|N/A|
-|[podsecuritypolicy/seccomp](https://pkg.go.dev/k8s.io/kubernetes/pkg/security/podsecuritypolicy/seccomp)|v0.0.0|N/A|N/A |Apache-2.0|N/A|
-|[protocol/ec2query](https://pkg.go.dev/github.com/aws/aws-sdk-go/internal/protocol/ec2query)|v0.0.0|N/A|N/A |Apache-2.0|N/A|
-|[ptypes](https://pkg.go.dev/github.com/golang/protobuf/ptypes)|v0.0.0|N/A|N/A |BSD-3-Clause|N/A|
-|[ratelimit](https://pkg.go.dev/github.com/juju/ratelimit)|v0.1.0|N/A|N/A |Other|N/A|
-|[swift](https://pkg.go.dev/github.com/ncw/swift)|v1.0.0|N/A|N/A |MIT|N/A|
-|[testify/mock](https://pkg.go.dev/github.com/stretchr/testify/mock)|v1.2.0|N/A|N/A |MIT|N/A|
-|[tools/metrics](https://pkg.go.dev/k8s.io/client-go/tools/metrics)|v0.0.0|N/A|N/A |Apache-2.0|N/A|
+|[Sirupsen/logrus](https://pkg.go.dev/github.com/fsouza/go-dockerclient/external/github.com/Sirupsen/logrus)|v0.5.3|04/11/23|Sebastian Rivera |BSD-2-Clause|N/A|
+|[any](https://pkg.go.dev/github.com/golang/protobuf/ptypes/any)|v0.0.0|04/11/23|Sebastian Rivera |BSD-3-Clause|N/A|
+|[btree](https://pkg.go.dev/github.com/google/btree)|v1.0.1|04/11/23|Sebastian Rivera |Apache-2.0|N/A|
+|[bufs](https://pkg.go.dev/github.com/cznic/bufs)|v0.1.0|04/11/23|Sebastian Rivera |BSD-3-Clause|N/A|
+|[clientcmd/api](https://pkg.go.dev/k8s.io/kubernetes/pkg/client/unversioned/clientcmd/api)|v1.3.1|04/11/23|Sebastian Rivera |Apache-2.0|N/A|
+|[dockerversion](https://pkg.go.dev/github.com/docker/docker/dockerversion)|v0.0.0|04/11/23|Sebastian Rivera |Apache-2.0|N/A|
+|[fsnotify](https://pkg.go.dev/github.com/fsnotify/fsnotify)|v1.0.1|04/11/23|Sebastian Rivera |BSD-3-Clause|N/A|
+|[go-ini](https://pkg.go.dev/github.com/vaughan0/go-ini)|v1.61.1501|04/11/23|Sebastian Rivera |MIT|N/A|
+|[go/internal](https://pkg.go.dev/cloud.google.com/go/internal)|v0.7.0|04/11/23|Sebastian Rivera |Apache-2.0|N/A|
+|[golang.org/x/net/context](https://pkg.go.dev/github.com/fsouza/go-dockerclient/external/golang.org/x/net/context)|v0.0.0|04/11/23|Sebastian Rivera |BSD-2-Clause|N/A|
+|[gomega](https://pkg.go.dev/github.com/onsi/gomega)|v0.9.2|04/11/23|Sebastian Rivera |MIT|N/A|
+|[gophercloud/openstack/utils](https://pkg.go.dev/github.com/gophercloud/gophercloud/openstack/utils)|v0.0.0|04/11/23|Sebastian Rivera |Other|N/A|
+|[httplex](https://pkg.go.dev/golang.org/x/net/lex/httplex)|v0.3.1|04/11/23|Sebastian Rivera |BSD-3-Clause|N/A|
+|[json-patch](https://pkg.go.dev/github.com/evanphx/json-patch)|v0.5.10|04/11/23|Sebastian Rivera |BSD-3-Clause|N/A|
+|[mapstructure](https://pkg.go.dev/github.com/mitchellh/mapstructure)|v0.5.0|04/11/23|Sebastian Rivera |MIT|N/A|
+|[networking/v2/ports](https://pkg.go.dev/github.com/rackspace/gophercloud/openstack/networking/v2/ports)|v1.0.0|04/11/23|Sebastian Rivera |Other|N/A|
+|[otto](https://pkg.go.dev/github.com/robertkrimen/otto)|v1.21.0|04/11/23|Sebastian Rivera |MIT|N/A|
+|[parsers](https://pkg.go.dev/github.com/docker/docker/pkg/parsers)|v1.0.4|04/11/23|Sebastian Rivera |Apache-2.0|N/A|
+|[pbkdf2](https://pkg.go.dev/golang.org/x/crypto/pbkdf2)|v0.0.0|04/11/23|Sebastian Rivera |BSD-3-Clause|N/A|
+|[pkcs11](https://pkg.go.dev/github.com/miekg/pkcs11)|v1.0.0|04/11/23|Sebastian Rivera |BSD-3-Clause|N/A|
+|[pkg/ioutils](https://pkg.go.dev/github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/ioutils)|v0.9.0|04/11/23|Sebastian Rivera |BSD-2-Clause|N/A|
+|[podsecuritypolicy/seccomp](https://pkg.go.dev/k8s.io/kubernetes/pkg/security/podsecuritypolicy/seccomp)|v0.0.0|04/11/23|Sebastian Rivera |Apache-2.0|N/A|
+|[protocol/ec2query](https://pkg.go.dev/github.com/aws/aws-sdk-go/internal/protocol/ec2query)|v0.0.0|04/11/23|Sebastian Rivera |Apache-2.0|N/A|
+|[ptypes](https://pkg.go.dev/github.com/golang/protobuf/ptypes)|v0.0.0|04/11/23|Sebastian Rivera |BSD-3-Clause|N/A|
+|[ratelimit](https://pkg.go.dev/github.com/juju/ratelimit)|v0.1.0|04/11/23|Sebastian Rivera |Other|N/A|
+|[swift](https://pkg.go.dev/github.com/ncw/swift)|v1.0.0|04/11/23|Sebastian Rivera |MIT|N/A|
+|[testify/mock](https://pkg.go.dev/github.com/stretchr/testify/mock)|v1.2.0|04/11/23|Sebastian Rivera |MIT|N/A|
+|[tools/metrics](https://pkg.go.dev/k8s.io/client-go/tools/metrics)|v0.0.0|04/11/23|Sebastian Rivera |Apache-2.0|N/A|
 
 <br/>
 <div align='center'>
