@@ -4,9 +4,7 @@
 DotEsparto1/terraform is built on the following main stack:
 
 - [Golang](http://golang.org/) – Languages
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [Shell](https://en.wikipedia.org/wiki/Shell_script) – Languages
-- [Next.js](https://nextjs.org/) – Frameworks (Full Stack)
 - [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
 - [Amazon Managed Workflows for Apache Airflow](https://aws.amazon.com/managed-workflows-for-apache-airflow/) – Workflow Manager
 - [Data Generator for Oracle](https://www.devart.com/dbforge/oracle/data-generator/) – Database Tools
@@ -64,9 +62,7 @@ Full tech stack [here](/techstack.md)
 DotEsparto1/terraform is built on the following main stack:
 
 - <img width='25' height='25' src='https://img.stackshare.io/service/1005/O6AczwfV_400x400.png' alt='Golang'/> [Golang](http://golang.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/5936/nextjs.png' alt='Next.js'/> [Next.js](https://nextjs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png' alt='Protobuf'/> [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/21799/default_c1b593d0eeac611b97edee3d68e1f785312c9914.png' alt='Amazon Managed Workflows for Apache Airflow'/> [Amazon Managed Workflows for Apache Airflow](https://aws.amazon.com/managed-workflows-for-apache-airflow/) – Workflow Manager
 - <img width='25' height='25' src='https://img.stackshare.io/service/21191/default_1d21287b1234e1c633629cd5f671afd79b33b571.png' alt='Data Generator for Oracle'/> [Data Generator for Oracle](https://www.devart.com/dbforge/oracle/data-generator/) – Database Tools
@@ -124,24 +120,16 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [DotEsparto1/terraform](https://github.com/DotEsparto1/terraform)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|110<br/>Tools used|03/15/24 <br/>Report generated|
+|107<br/>Tools used|03/19/24 <br/>Report generated|
 |------|------|
 </div>
 
-## <img src='https://img.stackshare.io/languages.svg'/> Languages (3)
+## <img src='https://img.stackshare.io/languages.svg'/> Languages (2)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/1005/O6AczwfV_400x400.png' alt='Golang'>
   <br>
   <sub><a href="http://golang.org/">Golang</a></sub>
-  <br>
-  <sub></sub>
-</td>
-
-<td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'>
-  <br>
-  <sub><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a></sub>
   <br>
   <sub></sub>
 </td>
@@ -157,17 +145,9 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## <img src='https://img.stackshare.io/frameworks.svg'/> Frameworks (2)
+## <img src='https://img.stackshare.io/frameworks.svg'/> Frameworks (1)
 <table><tr>
   <td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/5936/nextjs.png' alt='Next.js'>
-  <br>
-  <sub><a href="https://nextjs.org/">Next.js</a></sub>
-  <br>
-  <sub>v12.1.4</sub>
-</td>
-
-<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png' alt='Protobuf'>
   <br>
   <sub><a href="https://developers.google.com/protocol-buffers/">Protobuf</a></sub>
@@ -257,7 +237,7 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## <img src='https://img.stackshare.io/devops.svg'/> DevOps (16)
+## <img src='https://img.stackshare.io/devops.svg'/> DevOps (15)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png' alt='Codecov'>
@@ -304,7 +284,7 @@ Full tech stack [here](/techstack.md)
   <br>
   <sub><a href="https://istio.io/">Istio</a></sub>
   <br>
-  <sub>v0.11.2</sub>
+  <sub></sub>
 </td>
 
 <td align='center'>
@@ -379,14 +359,6 @@ Full tech stack [here](/techstack.md)
   <sub><a href="https://www.zyxel.com/us/en/">ZyXel</a></sub>
   <br>
   <sub>v0.0.0</sub>
-</td>
-
-<td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png' alt='npm'>
-  <br>
-  <sub><a href="https://www.npmjs.com/">npm</a></sub>
-  <br>
-  <sub></sub>
 </td>
 
 </tr>
